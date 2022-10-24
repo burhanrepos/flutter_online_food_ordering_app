@@ -1,0 +1,4 @@
+#Mon Oct 24 16:31:35 PKT 2022
+base.0=/Users/burhanshaheen/Documents/burhan/BR_F/flutter_online_food_ordering_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
